@@ -7,6 +7,7 @@ main.py: Using your webcam, this script applies face mask detection to every fra
 
 To see our real-time  face mask detector in action, make sure you have downloaded the source code and pre-trained face mask detector model.
 Before you launch the mask detector in real- time video streams , make sure you have install all the necessary software.
+
  To install TensorFlow 2.0 , try the following command: 
  
  pip install tensorflow

@@ -3,6 +3,10 @@ Face Mask Detector with OpenCV, Keras/TensorFlow, and Deep Learning.
 
 Detect face masks in real-time video streams.
 
+
+NOTE:-- I have uploaded the zip file of my dataset folder,so make sure you have extract the dataset folder, before you start working on it.
+
+
 main.py: Using your webcam, this script applies face mask detection to every frame in the stream.
 
 To see our real-time  face mask detector in action, make sure you have downloaded the source code and pre-trained face mask detector model.
